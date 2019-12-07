@@ -5,11 +5,6 @@ import java.security.NoSuchAlgorithmException;
 
 public class MD5Util {
 
-	public static void main(String[] args) {
-		String s = "admin";
-		System.out.println(md5(s));
-	}
-
 	/**
 	 * md5加密
 	 * 
